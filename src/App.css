@@ -1,0 +1,125 @@
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+}
+
+.navbar{
+  color: white;
+  max-width: 1100px;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+.navbar-brand{
+  padding-right: 10px;
+}
+
+.bg-white {
+  background-color: white;
+  border-bottom: 2px solid #f30d52;
+}
+
+.bg-darky {
+  background-color: #18191A;
+  border-bottom: 2px solid #f30d52;
+}
+
+.lightyNote {
+  color: #333;
+}
+
+.darkyNote {
+  color: #fff;
+}
+
+.darkyTxt {
+  background-color: #18191A;
+  color: white;
+}
+
+.lightyTxt {
+  background-color: #ffffff;
+  color: #18191A;
+}
+
+.darky {
+  color: #ffffff !important;
+}
+
+.lighty {
+  color: #f30d52 !important;
+}
+
+.nav-link:hover {
+  color: #f30d52 !important;
+}
+
+
+/* Home */
+#floatingTextarea {
+  height: 400px !important;
+  max-width: 900px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+#labelfornote {
+  position: absolute;
+  left: 120px;
+}
+
+.btn-manu {
+  transition: 1s all;
+  background-color: #f30d52;
+  color: white;
+  margin: 50px 10px;
+}
+
+.btn-manu:hover {
+  transform: scale(1.05);
+  color: white;
+}
+
+.text-opers {
+  display: flex;
+  width: 80%;
+  list-style: none;
+  position: absolute;
+  top: 450px;
+  left: 185px;
+}
+
+.contain {
+  margin-top: 5rem;
+  margin-left: 105px;
+}
+
+.contain2 {
+  margin-top: 5rem;
+  margin-left: 105px;  
+  padding: 20px 20px;
+  margin: 20px 20px;
+}
+
+.night-mode-icon {
+  color: white;
+}
+
+#FAQ {
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+}
+
+.msg {
+  z-index: 11;
+  max-width: 70rem;
+  margin: 5px auto;
+}
+
+.displayStyle{
+  display: show;
+}
+
+.displayStyleN{
+  display: none;
+}
